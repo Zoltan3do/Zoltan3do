@@ -36,7 +36,7 @@ Con una solida base nello sviluppo full-stack e una passione per l’innovazione
 
 ## 📫 Contatti
 
-- 📧 Email: [tuo.email@example.com](mailto:baronemanuel05@gmail.com)
+- 📧 Email: [baronemanuel05](mailto:baronemanuel05@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/manuel-barone-093b43269](https://www.linkedin.com/in/manuel-barone-093b43269/)
 - 🐙 GitHub: [github.com/Zoltan3do](https://github.com/Zoltan3do)
 
