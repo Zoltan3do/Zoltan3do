@@ -58,9 +58,9 @@ Con una solida base nello sviluppo full-stack e una passione per l’innovazione
 
 ## 📝 Ultimi Progetti
 
-- [SpringBaseLudoteca](https://github.com/Zoltan3do/SpringBaseLudoteca): Applicazione per la gestione di una ludoteca con autenticazione e gestione dei giochi
-- [Pirate_Chest_Simulator](https://github.com/Zoltan3do/Pirate_Chest_Simulator): Simulatore probabilistico per "Fullare" una build di Darkorbit con LG4
-- [HolidAI](https://github.com/Zoltan3do/HolidAI): Pagina Web interattiva che sfrutta l'AI API per pianificare viaggi in modo semplice e guidato
+- [Electrical_Company_Management](https://github.com/Zoltan3do/electrical-company-management): Gestionale Azienda Elettrica
+- [Corporate_Travel_Management](https://github.com/Zoltan3do/corporate-travel-management): Gestione viaggi aziendali
+- [Reservation_Management_System_For_Companies](https://github.com/Zoltan3do/reservation-management-system-for-companies): Gestionale di prenotazioni per aziende
 
 ---
 
