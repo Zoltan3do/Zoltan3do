@@ -42,12 +42,6 @@ Con una solida base nello sviluppo full-stack e una passione per l’innovazione
 
 ---
 
-## 📈 GitHub Stats
-
-![Zoltan3do's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoltan3do&show_icons=true&theme=radical)
-
----
-
 ## 🧠 Obiettivi Futuri
 
 - 📚 Continuare a imparare e migliorare le mie competenze tecniche
